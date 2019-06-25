@@ -4,6 +4,7 @@ version: '0.0.1'
 summary: Janus WebRTC Server websockets signalling proxy agent
 description: |
   Helper application to use in combination with janus-signalling-proxy. Run on Janus instance side.
+license: GPL-3.0+
 grade: stable
 confinement: strict
 architectures:
